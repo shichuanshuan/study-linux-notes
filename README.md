@@ -1,2 +1,2 @@
-# study-C--notes
-C++ 学习记录笔记
+# study-linux--notes
+linux 学习记录笔记
